@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.appheater.mypacetravel"
+    versionCode = "10"
+    version     = "1.0" >
+  <name>日本自遊易</name>
+  <description>大家好, 歡迎來到日本自遊易專頁喔。
+
+這裡是香港人氣第一日本自助遊專頁，由熱愛日本的旅遊書作者PACE@mypacetravel主理，這主打日本上網、旅遊新聞、新開名所、交通情報等。聯絡請私信留言，謝謝。
+
+這裡以推廣日本自助旅行，分享日本自助行的樂趣為主。內容有日本旅遊最新情報，也有我的旅遊及生活情報等推介，還有就是轉載我的博客mypacetravel文章啦，也歡迎大家互相分享情報啦。
+
+介紹一下我自己啦，我叫做PACE，旅遊書作者(包括逾10本日本旅遊指南書)、日遊愛好者(日遊次數100+，日本各縣幾乎全踏破)、旅遊及生活情報博客，也是這裡的ADMIN，多多指教。
+
+如有查詢及邀約等，請電郵至pace9834@gmail.com，或私信留言，謝謝。
+
+香港人氣第一日本自助遊專頁，由熱愛日本的旅遊書作者PACE@mypacetravel主理，主打日本上網、旅遊新聞、新名所、住宿及交通情報等。聯絡請私信留言，謝謝。</description>
+  <author href="http://webscrew.com" email="alankwok@yahoo.com">webscrew.com</author>
+  <preference name="permissions" value="none" />
+  <icon src="icons/apple-touch-icon-57-precomposed.png" gap:platform="ios" width="57" height="57" />
+  <icon src="icons/apple-touch-icon-72-precomposed.png" gap:platform="ios" width="72" height="72" />
+  <icon src="icons/apple-touch-icon-114-precomposed.png" gap:platform="ios" width="114" height="114" />
+  <icon src="icons/apple-touch-icon-144-precomposed.png" gap:platform="ios" width="144" height="144" />
+  <icon src="icons/android-ldpi.png" gap:platform="android" gap:density="ldpi" />
+  <icon src="icons/android-mdpi.png" gap:platform="android" gap:density="mdpi" />
+  <icon src="icons/android-hdpi.png" gap:platform="android" gap:density="hdpi" />
+  <icon src="icons/android-xhdpi.png" gap:platform="android" gap:density="xhdpi" />
+  <icon src="icons/winphone-icon.png" gap:platform="winphone" />
+  <icon src="icons/winphone-tileicon.png" gap:platform="winphone" gap:role="background" />
+</widget>
