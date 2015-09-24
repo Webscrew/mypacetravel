@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?><widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "com.appheater.mypacetravel"
-    versionCode = "10"
-    version     = "1.0" >
+    versionCode = "101"
+    version     = "1.0.1" >
+  <preference name="phonegap-version" value="3.5.0" /> 
   <name>日本自遊易</name>
   <description>大家好, 歡迎來到日本自遊易專頁喔。
 
