@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?><widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "com.appheater.mypacetravel"
-    versionCode = "102"
-    version     = "1.0.2" >
+    versionCode = "103"
+    version     = "1.0.3" >
   <preference name="phonegap-version" value="3.5.0" /> 
   <name>日本自遊易</name>
   <description>大家好, 歡迎來到日本自遊易專頁喔。
@@ -15,7 +15,7 @@
 
 如有查詢及邀約等，請電郵至pace9834@gmail.com，或私信留言，謝謝。
 
-香港人氣第一日本自助遊專頁，由熱愛日本的旅遊書作者PACE@mypacetravel主理，主打日本上網、旅遊新聞、新名所、住宿及交通情報等。聯絡請私信留言，謝謝。</description>
+香港人氣第一日本自助遊專頁，由熱愛日本的旅遊書作者PACE(自稱日遊方丈)主理，主打日本上網、旅遊新聞、新名所、住宿及交通情報等。聯絡請私信留言，謝謝。</description>
   <author href="http://webscrew.com" email="alankwok@yahoo.com">webscrew.com</author>
   <gap:platform name="android" />
   <preference name="permissions" value="none" />
